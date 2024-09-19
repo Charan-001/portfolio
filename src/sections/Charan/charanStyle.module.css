@@ -1,10 +1,10 @@
-.container{
+.Container{
     display: flex;
     flex-direction: column;
     justify-content: center;
     gap: 20px;
     text-align: center;
-    height: 120dvh;
+    height: 100dvh;
     min-height: 500px;
     .hero{
         max-width: 200px;
@@ -15,7 +15,7 @@
         justify-content: center;
 
         a{
-            margin: 0;
+            margin: 0; 
 
             img{
                 width: 30px;
@@ -70,4 +70,34 @@
     flex-direction: column;
    
     gap: 20px;
+}
+@media(width >= 800px){
+    .Container{
+        flex-direction: row-reverse;
+        align-items: center;
+        justify-content: space-evenly;
+
+        .hero{
+            max-width: 350px;
+            width: 350px;
+        }
+    }
+    .profile{
+        width: 350px;
+    }
+}
+@media(width >= 1400px){
+    .Container{
+        flex-direction: row-reverse;
+        align-items: center;
+        justify-content: space-evenly;
+
+        .hero{
+            max-width: 400px;
+            width: 400px;
+        }
+    }
+    .profile{
+        width: 400px;
+    }
 }

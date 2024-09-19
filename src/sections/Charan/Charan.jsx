@@ -20,7 +20,7 @@ function Charan() {
   const linkedinIcon = theme === 'light' ? linkedinLight : linkedinDark
 
   return (
-    <section id="hero" className={style.container}>
+    <section id="hero" className={style.Container}>
       <div className={style.colorModeContainer}>
         <img className={style.profile} src={Profileimg} alt="Profile picture" />
         <img
@@ -44,7 +44,7 @@ function Charan() {
           <img src={linkedinIcon} alt="Linkedin Icon" />
           </a>
         </span>
-         <p className={style.description}> As an Ethical Hacker, I Secured the network against potential threats. Responsible for testing our company network, servers, and infrastructure to identify vulnerabilities. Skills : Certified Ethical Hacker, Operating Systems.</p>
+         <p className={style.description}> As an Ethical Hacker, I Secured the network against potential threats. </p>
         <a href={CV} download>
           <button className={style.hover}>Resume</button>
         </a>
