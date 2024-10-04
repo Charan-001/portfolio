@@ -4,7 +4,7 @@ function Contact() {
   return (
     <section id='contact' className={style.container}>
         <h1 className='sectionTitle'>Contact</h1>
-        <form action="">
+        <form action="https://formspree.io/f/xdkonawk" method="post">
             <div className='formGroup'>
                 <label htmlFor='name' hidden>Name</label>
                 <input type="text" name='name'  id='name' placeholder='Name' required/>
