@@ -8,8 +8,8 @@ function Projects() {
     <section id="project" className={style.container}>
         <h1 className='sectionTitle'> Projects</h1>
         <div className={style.projectContainer}>
-            <ProjectCard  src={viberr} link='#hello' h3='Viberr' p='Streamin app'/>
-            <ProjectCard  src={viberr} link='#hello' h3='Viberr' p='Streamin app'/>
+            <ProjectCard  src={viberr} link='#hello' h3='En|Decoder' p='Tool'/>
+            <ProjectCard  src={viberr} link='#hello' h3='WebShaz' p='SAST|DCA Tool '/>
             <ProjectCard  src={viberr} link='#hello' h3='Viberr' p='Streamin app'/>
             <ProjectCard  src={viberr} link='#hello' h3='Viberr' p='Streamin app'/>
         </div>

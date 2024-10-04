@@ -44,7 +44,7 @@ function Charan() {
           <img src={linkedinIcon} alt="Linkedin Icon" />
           </a>
         </span>
-         <p className={style.description}> As an Ethical Hacker, I Secured the network against potential threats. </p>
+         <p className={style.description}> Hacking is Passion and Developing is Profession </p>
         <a href={CV} download>
           <button className={style.hover}>Resume</button>
         </a>
