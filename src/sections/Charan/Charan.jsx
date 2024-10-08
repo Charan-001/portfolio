@@ -34,7 +34,7 @@ function Charan() {
         <h1>CHARAN</h1>
         <h2>Hacker and Developer</h2>
         <span>
-          <a href="https://twitter.com/" target="_blank">
+          <a href="https://x.com/_Ch4r4n_?t=VP9e0G0C7mlDehC9ZbR5cg&s=09" target="_blank">
           <img src={twitterIcon} alt="" />
           </a>
           <a href="https://github.com/Charan-001/" target="_blank">
