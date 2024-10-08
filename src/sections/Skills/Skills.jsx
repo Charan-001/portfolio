@@ -28,9 +28,10 @@ const Skills = () => {
         </div>
         <hr />
         <div className={style.skillList}>
+            <SkillList src={checkMark} skill='Networking' />
             <SkillList src={checkMark} skill='Kali Linux' />
             <SkillList src={checkMark} skill='Burpsuite' />
-            <SkillList src={checkMark} skill='Maltego' />
+            
             <SkillList src={checkMark} skill='Wireshark' />
             <SkillList src={checkMark} skill='Nmap' />
         </div>

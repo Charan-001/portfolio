@@ -8,7 +8,7 @@ import githubLight from  "../../assets/github-light.svg";
 import twitterDark from "../../assets/twitter-dark.svg"
 import linkedinDark from "../../assets/linkedin-dark.svg"
 import githubDark from "../../assets/github-dark.svg"
-import CV from "../../assets/cv.pdf"
+import CV from "../../assets/CV.pdf"
 import { useTheme } from "../../common/ThemeContent";
 
 function Charan() {
