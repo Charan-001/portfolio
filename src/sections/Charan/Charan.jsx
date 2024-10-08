@@ -37,10 +37,10 @@ function Charan() {
           <a href="https://twitter.com/" target="_blank">
           <img src={twitterIcon} alt="" />
           </a>
-          <a href="https://github.com/" target="_blank">
+          <a href="https://github.com/Charan-001/" target="_blank">
           <img src={githubIcon} alt="Github Icon" />
           </a>
-          <a href="https://linkedin.com/" target="_blank">
+          <a href="https://www.linkedin.com/in/charan-k-3a7653249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
           <img src={linkedinIcon} alt="Linkedin Icon" />
           </a>
         </span>
